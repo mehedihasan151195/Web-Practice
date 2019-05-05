@@ -1,0 +1,11 @@
+body{
+	
+	background-color: #A1FFE0;
+}
+.page-header{
+	background-color: purple;
+	color: white;
+	
+	text-align: center;
+	font-size: 100px;
+}
